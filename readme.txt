@@ -2,7 +2,7 @@
 
 Витюк Алёна: team-lead, project manager
 
-Витюк Алина: front-end, UI/UX
+Витюк Алина: front-end, AndroidDev
 
 Любивый Андрей: back-end, DB
 
