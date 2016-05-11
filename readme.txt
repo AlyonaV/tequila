@@ -14,4 +14,4 @@
 
 Делегат:
 
-Витюк Алина, alvityuk@gmail.com
+Любивый Андрей, 120494al@gmail.com
